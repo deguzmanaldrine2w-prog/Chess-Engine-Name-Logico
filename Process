@@ -1,0 +1,3 @@
+info->UseShellExecute = false;
+info->RedirectStandardInput = true;
+info->RedirectStandardOutput = true;
